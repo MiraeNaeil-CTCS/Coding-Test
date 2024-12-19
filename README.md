@@ -21,7 +21,7 @@ git pull
 git commit -m "20241219 - 본인 이름"
 ```  
 기존 커밋에 수정 사항이 있을 경우 본인 이름 뒤에 "수정됨" 정도의 문구만 남겨주셔도 됩니다.  
-## Comments requirements in Your Code Scripts
+## Comments Requirements in Your Code Scripts
 코딩 테스트 스크립트 작성 시, 다른 참여자들이 자신의 코드에 대한 정보를 알 수 있도록 다음의 사항을 코드에 주석으로 남겨주시면 스터디에 도움이 됩니다.  
 1. 문제를 푼 플랫폼 출처 및 문제 이름 (백준에서 푼 문제는 문제 번호도 이름 앞에 달아주세요)
     - 예시(프로그래머스): `# 프로그래머스 - 우선순위 큐`
