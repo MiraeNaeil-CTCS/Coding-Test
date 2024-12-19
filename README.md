@@ -30,4 +30,4 @@ git commit -m "20241219 - 본인 이름"
     - 예시: 스택, 다이나믹 프로그래밍 등
 3. 알고리즘 스크립트의 실행 순서를 간단한 의사 코드로 작성해주세요.
 ### Miscellaneous
-- 건의사항이나 오류 제보는 Issue 탭에 게시해주시면 조치하도록 하겠습니다.
+- 건의사항이나 오류 제보는 [Issue 탭](https://github.com/MiraeNaeil-CTCS/Coding-Test/issues)에 게시해주시면 조치하도록 하겠습니다.
