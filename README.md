@@ -8,6 +8,7 @@ git clone https://github.com/MiraeNaeil-CTCS/Coding-Test.git
 ## Commit and Push Your Files
 본 리포지터리는 여러 사람이 함께 참여하는 리포지터리이므로, 커밋 및 푸시를 하기에 앞서 다른 참여자의 커밋 및 푸시 내역을 로컬 환경으로 pull해서 이전 진행 상황을 가져와야 합니다.  
 따라서, 본인이 별도의 브랜치를 만들지 않는 이상, 커밋 및 푸시를 하기 전에 필수적으로 `git pull`을 실행해주시기를 권장합니다.  
+본 스터디에서는 별도의 브랜치 생성 및 풀 리퀘스트 없이 main 브랜치에 직접 커밋 및 푸시를 해 주셔야 합니다.
 ```Bash
 git pull
 ```  
