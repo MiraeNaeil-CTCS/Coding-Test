@@ -9,7 +9,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class Main { // 1 1 2 3 -> 3 1 1 2
 
     static int N, M, T;
     static int[] centers;
