@@ -1,4 +1,5 @@
 // 백준 14502: 연구소
+// 출처: https://www.acmicpc.net/problem/14502
 // 알고리즘 분류: DFS, BFS
 
 // 3 <= N, M <= 8, 벽 3개로 널널한 제한 사항
